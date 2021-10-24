@@ -2,7 +2,7 @@
 /*
 Plugin Name: Add Menu
 Description: Add menu plugin for adding a new link to admin menu
-Author: Simon Lissack
+Author: Vineetha
 Version: 0.1
 */
   add_action('admin_menu', 'add_link_save_leads');
